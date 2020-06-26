@@ -10,3 +10,6 @@ Com base nesta especificação, vamos responder as seguintes questões:
 
 1) Com base nos princípios de Alan Kay, quais os objetos que podemos criar?  
 **Resposta:** Baseado no primeiro princípio, tudo é um objeto, podemos criar um objeto para cada substantivo da especificação, vamos ter os objetos CLIENTE, ANIMAL e AGENDA.
+
+## e-Aula 1
+Pequena aplicação para fixarr os conceitos de classes, objetos e métodos.
