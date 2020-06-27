@@ -3,6 +3,9 @@
 ## Exemplos Aula 1 e 2
 Programas Alo Mundo!
 
+## Exemplo Aula 3
+Visibilidade de classes, métodos e atributos (public, private, protected).
+
 ## Aula prática 1
 Criar um sistema de software que mantenha os clientes de um pet shop. Este sistema deve permitir o cadastramento dos clientes e dos animais que pertencem a estes clientes, além de permitir que seja criada uma agenda de atendimento dos animais.  
 
