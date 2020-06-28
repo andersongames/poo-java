@@ -15,4 +15,7 @@ Com base nesta especificação, vamos responder as seguintes questões:
 **Resposta:** Baseado no primeiro princípio, tudo é um objeto, podemos criar um objeto para cada substantivo da especificação, vamos ter os objetos CLIENTE, ANIMAL e AGENDA.
 
 ## e-Aula 1
-Pequena aplicação para fixarr os conceitos de classes, objetos e métodos.
+Pequena aplicação para fixar os conceitos de classes, objetos e métodos.
+
+## e-Aula 2
+Continuação da aplicação da e-Aula 1, agora com conceitos de visibilidade e um novo exercício com classes abstratas.
