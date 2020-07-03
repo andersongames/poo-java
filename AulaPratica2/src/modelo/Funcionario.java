@@ -5,13 +5,15 @@ public class Funcionario {
 	protected String nome;
 	protected Endereco endereco;
 	protected Departamento departamento;
+	protected double salario;
 	
-	public Funcionario(String matricula, String nome, Endereco endereco, Departamento departamento) {
+	public Funcionario(String matricula, String nome, Endereco endereco, Departamento departamento, double salario) {
 		super();
 		this.matricula = matricula;
 		this.nome = nome;
 		this.endereco = endereco;
 		this.departamento = departamento;
+		this.salario = salario;
 	}
 	
 	public Funcionario() {
@@ -41,5 +43,15 @@ public class Funcionario {
 	}
 	public void setDepartamento(Departamento departamento) {
 		this.departamento = departamento;
+	}
+	public double getSalario() {
+		return salario;
+	}
+	public void setSalario(double salario) {
+		this.salario = salario;
+	}
+	
+	public double calculaComissao() {
+		return salario * 0.1;
 	}
 }
