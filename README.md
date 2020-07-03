@@ -9,6 +9,9 @@ Visibilidade de classes, métodos e atributos (public, private, protected).
 ## Exemplo Aula 4
 Encapsulamento, associação e agregação.
 
+## Exemplo Aula 5
+Herança
+
 ## Aula prática 1
 Criar um sistema de software que mantenha os clientes de um pet shop. Este sistema deve permitir o cadastramento dos clientes e dos animais que pertencem a estes clientes, além de permitir que seja criada uma agenda de atendimento dos animais.  
 
@@ -27,6 +30,9 @@ Com base nesta especificação, vamos responder as seguintes questões:
 
 2) Conforme a especificação teremos um relacionamento entre as classes Funcionario e Endereco e entre Funcionario e Departamento. Qual é esse relacionamento?  
 **Resposta:** Entre as classes Funcionario e Endereco e entre Funcionario e Departamento temos uma Associação.
+
+## Aula prática 3
+Extenssão do sistema da aula prática 2, aplicando herança e polimorfismo.
 
 ## e-Aula 1
 Pequena aplicação para fixar os conceitos de classes, objetos e métodos.
