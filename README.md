@@ -37,8 +37,14 @@ Com base nesta especificação, vamos responder as seguintes questões:
 ## Aula prática 3
 Extenssão do sistema da aula prática 2, aplicando herança e polimorfismo.
 
+## Aula prática 4
+Criar um sistema de pedidos e entregas de uma loja virtual.
+
 ## e-Aula 1
 Pequena aplicação para fixar os conceitos de classes, objetos e métodos.
 
 ## e-Aula 2
 Continuação da aplicação da e-Aula 1, agora com conceitos de visibilidade e um novo exercício com classes abstratas.
+
+## e-Aula 3
+Aplicação que calcula salários e comissões de funcionários.
