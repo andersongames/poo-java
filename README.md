@@ -48,3 +48,7 @@ Continuação da aplicação da e-Aula 1, agora com conceitos de visibilidade e 
 
 ## e-Aula 3
 Aplicação que calcula salários e comissões de funcionários.
+
+## Aulas ao vivo
+### Atividade 1
+Experimentar e comprovar a persistência de objetos em JAVA com o Eclipse.
