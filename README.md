@@ -51,4 +51,7 @@ Aplicação que calcula salários e comissões de funcionários.
 
 ## Aulas ao vivo
 ### Atividade 1
-Experimentar e comprovar a persistência de objetos em JAVA com o Eclipse.
+Experimentar e comprovar a persistência de objetos em JAVA com o Eclipse.  
+
+### Atividade 2
+Utilizar os arquivos como estruturas de dados para armazenamento de longo prazo de grandes volumes de dados.
