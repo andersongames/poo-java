@@ -2,6 +2,7 @@ package pctEmpregado;
 
 public class Salario extends Empregado {
 		private double salarioMensal;
+		
 
 		public Salario(String nome, String nrDoct, double rendimento, double salarioMensal) {
 			super(nome, nrDoct, rendimento);

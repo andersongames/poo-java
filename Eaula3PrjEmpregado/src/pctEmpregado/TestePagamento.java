@@ -1,7 +1,6 @@
 package pctEmpregado;
 
 public class TestePagamento {
-
 	public static void main(String[] args) {
 		Salario sal = new Salario("João", "123456789", 0, 2500.00);
 		System.out.println("*** rendimento Mensalistas ***");
